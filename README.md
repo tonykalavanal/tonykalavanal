@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Tony Jose and I am a Software Developer from Halifax, Canada. 
+My name is Tony Jose and I am a DevOps Engineer.  
 
 
 <!--
