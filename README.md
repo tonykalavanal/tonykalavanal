@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Tony Jose and I am a Software Engineer.  
+My name is Tony and I am a Software Engineer.  
 
 
 <!--
