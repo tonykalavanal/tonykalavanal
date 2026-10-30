@@ -1,5 +1,14 @@
-### Hi there 👋
-My name is Tony, and I founded Teyome.  
+## Hi, I'm Tony 👋
+
+Founder of **Teyome Technologies** in Halifax, Nova Scotia.
+
+We're building **[Homebase](https://homebaseplatform.com)**, a platform that helps real estate professionals manage their clients, listings and daily work in one place, on mobile and on the web.
+
+I lead the product, from the first idea to what ships, and I still enjoy getting my hands into the code.
+
+Before Teyome, I spent several years as a software developer working on large-scale backend and DevOps systems.
+
+🌐 [homebaseplatform.com](https://homebaseplatform.com) · 📍 Halifax, Canada
 
 
 <!--
