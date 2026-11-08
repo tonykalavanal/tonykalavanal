@@ -2,7 +2,7 @@
 
 Founder of **Teyome Technologies** in Halifax, Nova Scotia.
 
-We're building **[Homebase](https://homebaseplatform.com)**, a platform that helps real estate professionals run their business in one place.
+We're building **[Homebase](https://homebaseplatform.com)**, a product that keeps realtors on their clients’ phones: a branded community where the people they meet see their listings, updates and events.
 
 🌐 [homebaseplatform.com](https://homebaseplatform.com)
 
